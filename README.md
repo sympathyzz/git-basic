@@ -29,4 +29,8 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
-----------————————————___________________________
+git add是将当前目录下修改的所有代码从工作区添加到暂存区
+git commit是将缓存区内容添加到本地仓库
+git push是将本地仓库的内容推送到远程仓库
+
+-------_____
